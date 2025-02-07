@@ -1,0 +1,12 @@
+{
+    "name": "asteroid-project",
+    "version": "1.0.0",
+    "description": "Fetch and analyze asteroid data from NASA API",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "node-fetch": "^2.6.1"
+    }
+  }
